@@ -74,7 +74,7 @@ Esta sección describe brevemente los gráficos generados durante el análisis y
 3.  **Explorar los notebooks:**
     Abre los notebooks en la carpeta `notebooks/` para seguir el proceso de análisis y ver la generación de los gráficos.
 4.  **Visualizar los resultados:**
-    Las imágenes de los gráficos se encuentran en la carpeta `challenge/`.
+    Las imágenes de los gráficos se encuentran en la carpeta `challenge1-data-science-main/`.
 
 ## 🛠️ Herramientas Utilizadas
 
